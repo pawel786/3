@@ -695,3 +695,4 @@
 
 </body>
 </html>
+hero.jpg
